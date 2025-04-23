@@ -1,6 +1,6 @@
 # 😊 Face Emotional Recognition
 
-A deep learning project for detecting human emotions from facial expressions using Convolutional Neural Networks (CNN) and TensorFlow/Keras. The model can recognize multiple emotions such as **angry**, **happy**, **sad**, **surprise**, and **neutral**.
+A deep learning project for detecting human emotions from facial expressions using Convolutional Neural Networks (CNN) and TensorFlow/Keras. The model can recognize multiple emotions such as, **happy**, **sad**, and **neutral**.
 
 ## 📌 Overview
 
